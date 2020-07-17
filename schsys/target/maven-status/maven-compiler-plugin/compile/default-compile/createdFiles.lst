@@ -1,0 +1,12 @@
+com\schsys\beans\Modules.class
+com\schsys\beans\Students.class
+com\schsys\beans\Classroom.class
+com\schsys\dao\ModulesDAO$1.class
+com\schsys\dao\StudentsDAO.class
+com\schsys\dao\StudentsDAO$1.class
+com\schsys\dao\ModulesDAO.class
+com\schsys\controller\StudentsController.class
+com\schsys\dao\ClassroomDAO$2.class
+com\schsys\dao\ClassroomDAO.class
+com\schsys\dao\ClassroomDAO$1.class
+com\schsys\dao\ModulesDAO$2.class
